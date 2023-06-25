@@ -1,13 +1,13 @@
 # CS-230-Operating-Platforms
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-Test testing the test with a test. 
-#
+The Gaming Room is a game development company that currently has a game on Android devices called Draw It or Lose it. It is based on 1980's game Win, Lose or Draw. Teams play against each other by guessing the puzzle (a phrase, title, or thing) by having the application render images from a large library of stock drawings as clues. The game currently is only available on Android devices, but The Gaming Room wishes it to be a web-based application to reach more people on different platforms. 
 # What did you do particularly well in developing this documentation?
-
+In order to prep for the development of an application, psuedocode and diagrams are extremely helpful. A Unified Modeling Language (UML) diagram is to provide a way of visualizing design. Since there is no syntax or language rules, UML diagrams are written in plain English which allows for a better understanding of the application. It allows the developer to "map out" the application beforehand and fully understand how the application will work before it is created. Since this was more about design and organization rather than curly braces and semicolons, I feel this was the more enjoyable aspect of the documentation.
 # What about the process of working through a design document did you find helpful when developing the code?
-
+When working though a design document, it was very helpful in the planning of the code. It was used as a reference of how the application should interact with the user. It would keep a team of developers on the same page and answer questions they might have about features of the game. 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-
+When desiding on which server to use as a host of the application, there is a vast amount of information that I honestly didn't go into great details with. Considering that the application is on Android platforms and The Gaming Room uses Windows for their platforms, I chose a Windows server. While Windows would be easier to adapt to, it is expensive. I would have liked to delve deeper into the pros and cons of Windows versus Linux, because I was very close to chosing Linux as the prefered server.
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-
+The user's needs are what make the game unique. One of the major selling points of Apple products is that they are very "user friendly". They make user's needs a top priority when designing and developing, as it should be. A way I look at developing is that I am the user, and if I don't like the layout, the interactions, the design, or the speed, why would others? 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+When designing the software I would look at the top priorities given by the client. In this case, speed, user friendly, and security. I would focus on these points and branch out as needed. Budget is usually a factor with any client, and development skills also played a role. Knowing that developers at The Gaming Room only use Windows, using MacOS servers would require a lot of training, which requires money, and time. I believe there is no such thing as too much information given by the client. I would want to make an application or software that they consider perfect, so the more details I have, the better. 
